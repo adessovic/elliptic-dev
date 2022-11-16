@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/adessovic/elliptic-dev/issues"
   },
-  "homepage": "https://github.com/adessovic/elliptic-dev#readme"
+  "homepage": "https://github.com/adessovic/elliptic-dev#readme",
+  "dependencies": {
+    "elliptic": "^6.5.4"
+  }
 }
